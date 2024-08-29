@@ -104,6 +104,21 @@ wolframalpha = "^5.1.3"
 astra-assistants = "^2.0.15"
 composio-langchain = "^0.3.28"
 spider-client = "^0.0.27"
+pyswisseph = "*"
+skyfield = "*"
+flatlib = "*"
+psychopy = "*"
+neurokit2 = "*"
+text2emotion = "*"
+spacy = "*"
+nltk = "*"
+transformers = "*"
+pdfplumber = "*"
+pypdf2 = "*"
+pdfminer.six = "*"
+camelot-py = "*"
+pdfquery = "*"
+
 
 
 [tool.poetry.group.dev.dependencies]
