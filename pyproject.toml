@@ -24,8 +24,6 @@ documentation = "https://docs.langflow.org"
 [tool.poetry.scripts]
 langflow = "langflow.__main__:main"
 
-
-[tool.poetry.dependencies]
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"
 langflow-base = { path = "./src/backend/base", develop = true }
