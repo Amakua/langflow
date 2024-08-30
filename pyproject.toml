@@ -103,19 +103,19 @@ wolframalpha = "^5.1.3"
 astra-assistants = "^2.0.15"
 composio-langchain = "^0.3.28"
 spider-client = "^0.0.27"
-pyswisseph = "^2.10.2"  # Set to a stable specific version
-skyfield = "^1.45"  # Set to a stable specific version
-flatlib = "^0.2.5"  # Set to a stable specific version
-psychopy = "^2023.2.3"  # Set to a stable specific version
-neurokit2 = "^0.2.2"  # Set to a stable specific version
-text2emotion = "^0.1.10"  # Set to a stable specific version
-spacy = "^3.6.0"  # Set to a specific stable version
-nltk = "^3.8.1"  # Set to a specific stable version
-transformers = "^4.33.3"  # Set to a specific stable version
-pdfplumber = "^0.10.1"  # Set to a specific stable version
-pypdf2 = "^3.0.1"  # Set to a specific stable version
-camelot-py = "^0.10.1"  # Set to a specific stable version
-pdfquery = "0.4.3"  # Set to a specific stable version
+pyswisseph = "2.10.3.2"  # Correct version
+skyfield = "1.49"  # Correct version
+flatlib = "0.2.3"  # Correct version
+psychopy = "2024.2.1"  # Correct version
+neurokit2 = "0.2.10"  # Correct version
+text2emotion = "0.0.5"  # Correct version
+spacy = "3.7.6"  # Correct version
+nltk = "3.9.1"  # Correct version
+transformers = "4.44.2"  # Correct version
+pdfplumber = "0.11.4"  # Correct version
+pypdf = "4.3.1"  # Correct version
+camelot-py = "0.11.0"  # Correct version
+pdfquery = "0.1.3"  # Correct version
 
 
 
