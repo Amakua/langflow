@@ -11989,3 +11989,159 @@ local = ["ctransformers", "llama-cpp-python", "sentence-transformers"]
 lock-version = "2.0"
 python-versions = ">=3.10,<3.13"
 content-hash = "d28ec6fd2e297b204afb1d593e55237743681f0c48c75c04e1e38704de737e0a"
+
+[[package]]
+name = "pyswisseph"
+version = "2.10.3.2"
+description = "Python extension to the Swiss Ephemeris library"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+files = [
+    {file = "pyswisseph-2.10.3.2-cp311-cp311-win_amd64.whl", hash = "sha256:2b4a24f7954e1456ecbd3bb091b7c2a8a2e9838ff56e0d8af0f9e897fa84eb25"}
+]
+
+[[package]]
+name = "skyfield"
+version = "1.49"
+description = "Elegant astronomy for Python"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+files = [
+    {file = "skyfield-1.49.tar.gz", hash = "sha256:20883027b2bbf4017dd916b64faaeb3713a8f88d7c8e353c15cd030ac63be92c"}
+]
+
+[[package]]
+name = "flatlib"
+version = "0.2.3"
+description = "Python library for traditional astrology"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+files = [
+    {file = "flatlib-0.2.3.tar.gz", hash = "sha256:46cc956b936aa31a96082cff23448a5c27dd6e5e434a6293bc9265336c00dd5d"}
+]
+
+[[package]]
+name = "psychopy"
+version = "2024.2.1"
+description = "A package for running psychology and neuroscience experiments"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+files = [
+    {file = "psychopy-2024.2.1.tar.gz", hash = "sha256:71de39990a5f768c0d27a492e1838aa16a38648e633d59b9041e77e7fde48a7c"}
+]
+
+[[package]]
+name = "neurokit2"
+version = "0.2.10"
+description = "User-friendly package for physiological signal processing"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+files = [
+    {file = "neurokit2-0.2.10.tar.gz", hash = "sha256:31e4eb2a187aa0c8eb26a63d0ef9072891d6b6d4dde384d9691b82074d539aba"}
+]
+
+[[package]]
+name = "text2emotion"
+version = "0.0.5"
+description = "A package to extract emotions from text"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+files = [
+    {file = "text2emotion-0.0.5.tar.gz", hash = "sha256:a7868ff1aee3362491c9ca094ae3d975678693aaa5e9144d1ad0eb64dd8f32e8"}
+]
+
+[[package]]
+name = "spacy"
+version = "3.7.6"
+description = "Industrial-strength Natural Language Processing (NLP) with Python and Cython"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+files = [
+    {file = "spacy-3.7.6.tar.gz", hash = "sha256:f4065c0aac5c48bbfb2ffe191d55ccb33bfb005376afbd4ccd6d5e9341514e34"}
+]
+
+[[package]]
+name = "nltk"
+version = "3.9.1"
+description = "Natural Language Toolkit"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+files = [
+    {file = "nltk-3.9.1.tar.gz", hash = "sha256:87d127bd3de4bd89a4f81265e5fa59cb1b199b27440175370f7417d2bc7ae868"}
+]
+
+[[package]]
+name = "transformers"
+version = "4.44.2"
+description = "State-of-the-art Natural Language Processing for Pytorch and TensorFlow"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+files = [
+    {file = "transformers-4.44.2.tar.gz", hash = "sha256:36aa17cc92ee154058e426d951684a2dab48751b35b49437896f898931270826"}
+]
+
+[[package]]
+name = "pdfplumber"
+version = "0.11.4"
+description = "Plumb a PDF for detailed information about each text character, rectangle, and line"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+files = [
+    {file = "pdfplumber-0.11.4.tar.gz", hash = "sha256:147b55cde2351fcb9523b46b09cc771eea3602faecfb60d463c6bf951694fbe8"}
+]
+
+[[package]]
+name = "pypdf"
+version = "4.3.1"
+description = "A pure Python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+files = [
+    {file = "pypdf-4.3.1.tar.gz", hash = "sha256:b2f37fe9a3030aa97ca86067a56ba3f9d3565f9a791b305c7355d8392c30d91b"}
+]
+
+[[package]]
+name = "pdfquery"
+version = "0.1.3"
+description = "A library for scraping PDFs using pdfminer and lxml"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+files = [
+    {file = "pdfquery-0.1.3.tar.gz", hash = "sha256:b56cdc8e94cb954a1a7d739bd8491a64906b88c2b178966e61449267302f3c42"}
+]
+
+[[package]]
+name = "camelot-py"
+version = "0.11.0"
+description = "A PDF table extraction library for Python"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+files = [
+    {file = "camelot-py-0.11.0.tar.gz", hash = "sha256:97a7d906d685e4059a4a549a63ae3a51f0ab72a3c826557f8443c65a1181dfe6"}
+]
