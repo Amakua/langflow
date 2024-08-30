@@ -115,7 +115,7 @@ transformers = "^4.33.3"  # Set to a specific stable version
 pdfplumber = "^0.10.1"  # Set to a specific stable version
 pypdf2 = "^3.0.1"  # Set to a specific stable version
 camelot-py = "^0.10.1"  # Set to a specific stable version
-pdfquery = "^0.4.3"  # Set to a specific stable version
+pdfquery = "^0.4.2"  # Set to a specific stable version
 
 
 
