@@ -1,3 +1,3 @@
-FROM amakua/langflow:latest
+FROM langflowai/langflow:latest
 
 ENTRYPOINT ["python", "-m", "langflow", "run"]
